@@ -1,0 +1,7 @@
+- Parse ETRADE XML
+- Define Allocation Types & Desired Percentages
+- Map ETRADE holdings to alloc types.
+- Display current holdings w/ desired alloc percentages in GUI.
+- Show Difference from desired alloc settings
+- Show Trades needed to balance.
+- Include Tranaction fees in trade suggestions
